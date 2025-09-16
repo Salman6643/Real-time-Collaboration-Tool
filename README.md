@@ -1,19 +1,16 @@
 # Real-time Collaboration Tool
 
-## Structure
-- backend/: Node.js + Express + Socket.IO server
-- frontend/: Vite + React client
 
-## Run locally
-1. Backend
-   cd backend
-   npm install
-   npm run dev
+COMPANY: CODTECH IT SOLUTIONS
 
-2. Frontend
-   cd frontend
-   npm install
-   npm run dev
+NAME: MOHD SALMAN
 
-Open the frontend URL (usually http://localhost:5173), open two browser windows and join same room id.
+INTERN ID: CT04DY1108
 
+DOMAIN: FULL STACK WEB DEVELOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH KUMAR
+
+#OUTPUT
