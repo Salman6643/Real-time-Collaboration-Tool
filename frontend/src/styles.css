@@ -1,0 +1,12 @@
+body { font-family: Inter, system-ui, Arial; margin:0; padding:0; background:#f7f7f8; }
+.app { padding:20px; }
+.join input { display:block; margin:8px 0; padding:8px; width:280px; }
+.buttons button { margin-right:8px; padding:8px 12px; }
+.workspace { display:flex; gap:12px; align-items:flex-start; }
+.whiteboard { background:#fff; padding:12px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.05); }
+.whiteboard canvas { display:block; margin-top:8px; background:#fff; cursor:crosshair; }
+.controls { display:flex; gap:12px; align-items:center; }
+.chat { width:320px; background:#fff; padding:12px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.05); }
+.messages { height:420px; overflow-y:auto; border:1px solid #eee; padding:8px; margin-bottom:8px; background:#fafafa; }
+.send { display:flex; gap:8px; }
+.send input { flex:1; padding:8px; }
